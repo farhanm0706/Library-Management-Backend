@@ -1,4 +1,4 @@
-Library Management application is built to management library books. 
+Library Management application is built to manage library books. 
 We have two madules of admin and user.
 Admin can add books ,view books, edit the existing books and delete books as well. 
 Admin can see all the users details along with the user book transactions that is borrowing and returning the books from and to the libarary through this application.
